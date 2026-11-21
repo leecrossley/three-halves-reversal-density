@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24410817.svg)](https://doi.org/10.5281/zenodo.24410817)
 
+This result is now maintained in [prime-window-all-widths](https://github.com/leecrossley/prime-window-all-widths/tree/main/results/three-halves-reversal-density). This repository is archived and keeps its releases and DOI.
+
 At dilation $b=3/2$, a reversal is a scale $y$ where the weighted sum of primes between $y$ and $2.25y$ overshoots its predicted size. Assuming the Riemann hypothesis (RH) and rational linear independence of the distinct positive ordinates of the nontrivial zeta zeros, reversals have a well-defined logarithmic density $\delta$, and this repository pins it between $10^{-10000}$ and $10^{-1012}$.
 
 The lower bound shows that, under these hypotheses, reversals occupy a positive proportion of the logarithmic scale. The upper bound shows how small that proportion is. A [companion repository](https://github.com/leecrossley/three-halves-reversal-upper-density/tree/v1.0.0) bounds the upper logarithmic density by $10^{-232}$ under RH alone. Neither result locates the first reversal.
